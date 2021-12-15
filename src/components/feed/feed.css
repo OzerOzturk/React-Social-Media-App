@@ -3,3 +3,7 @@
 }
 
 /* its nearly same, you can give 25 percent 50 percent and 25percent. flex 2.5 5 2.5 same concept. */
+
+.feedWrapper {
+  padding: 20px;
+}
